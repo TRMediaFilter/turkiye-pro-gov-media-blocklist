@@ -92,3 +92,9 @@
 
 ! Gıda ve Kahve Zincirleri
 ||espressolab.com^
+||tarimkredi.org.tr^
+||watsons.com.tr^
+||tkkoop.com.tr^
+||kizilay.org.tr^
+||torku.com.tr^
+||ulker.com.tr^
